@@ -1,0 +1,14 @@
+[Details]
+  Icon = "fyne.png"
+  Name = "Fyne Demo"
+  ID = "io.fyne.demo"
+  Version = "2.3.0"
+  Build = 17
+
+[Development]
+  HelperText = "This binary was build with debug symbol"
+
+[Release]
+  HelperText = "This binary was build without debug symbol"
+
+[LinuxAndBSD]
